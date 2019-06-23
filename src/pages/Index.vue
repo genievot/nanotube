@@ -50,7 +50,7 @@
   </q-avatar>
         </div>
       <q-card style="width: 100%;
-        max-width: 28vw">
+        max-width: 300px">
       <q-video
         src="https://www.youtube.com/embed/pTl42COCNaM"
       ></q-video>
@@ -59,9 +59,9 @@
            <q-item-label class="text-subtitle1" lines="1">VFX Artists React to Bad & Great CGi 4</q-item-label>
          </q-card-section>
 
-         <q-card-section>
+         <q-card-section class="bg-primary">
             <!-- Hovering over it show full desc in tool tip -->
-            <q-item-label caption class="text-bold" lines="2">CONSIDER SUBSCRIBING ► http://bit.ly/Subscribe_Corridor_Crew
+            <q-item-label caption class="text-bold text-white" lines="2">CONSIDER SUBSCRIBING ► http://bit.ly/Subscribe_Corridor_Crew
 Watch This Show From The Beginning ► https://www.youtube.com/watch?v=kd8Ni.
         </q-item-label>
          </q-card-section>
@@ -74,7 +74,7 @@ Watch This Show From The Beginning ► https://www.youtube.com/watch?v=kd8Ni.
   </q-avatar>
         </div>
       <q-card style="width: 100%;
-        max-width: 28vw">
+        max-width: 300px">
       <q-video
         src="https://www.youtube.com/embed/amuemzOADlc"
       ></q-video>
@@ -83,9 +83,9 @@ Watch This Show From The Beginning ► https://www.youtube.com/watch?v=kd8Ni.
            <q-item-label class="text-subtitle1" lines="1">EG vs GAMBIT - WINNERS LOSERS DECIDER - EPICENTER MAJOR 2019 DOTA 2</q-item-label>
          </q-card-section>
 
-         <q-card-section>
+         <q-card-section class="bg-primary">
             <!-- Hovering over it show full desc in tool tip -->
-            <q-item-label caption class="text-bold" lines="2">Commentary by @DSwordfish & @Garethcasts
+            <q-item-label caption class="text-bold text-white" lines="2">Commentary by @DSwordfish & @Garethcasts
 EG vs GAMBIT - WINNERS LOSERS DECIDER - EPICENTER MAJOR 2019 DOTA 2
         </q-item-label>
          </q-card-section>
@@ -98,7 +98,7 @@ EG vs GAMBIT - WINNERS LOSERS DECIDER - EPICENTER MAJOR 2019 DOTA 2
   </q-avatar>
         </div>
       <q-card style="width: 100%;
-        max-width: 28vw">
+        max-width: 300px">
       <q-video
         src="https://www.youtube.com/embed/jrVwqQVCrLw"
       ></q-video>
@@ -107,9 +107,9 @@ EG vs GAMBIT - WINNERS LOSERS DECIDER - EPICENTER MAJOR 2019 DOTA 2
           <q-item-label class="text-subtitle1" lines="1">The Experts Teaching Self-Driving Cars How to Drive</q-item-label>
          </q-card-section>
 
-         <q-card-section>
+         <q-card-section class="bg-primary">
             <!-- Hovering over it show full desc in tool tip -->
-            <q-item-label caption class="text-bold" lines="2">Autonomous cars are only as good as the human drivers they learn from — so the people who teach these systems how to drive need to be excellent drivers themselves. To get a look at what it takes to do this job, Bloomberg Technology’s Aki Ito recently joined two vehicle operators who work
+            <q-item-label caption class="text-bold text-white" lines="2">Autonomous cars are only as good as the human drivers they learn from — so the people who teach these systems how to drive need to be excellent drivers themselves. To get a look at what it takes to do this job, Bloomberg Technology’s Aki Ito recently joined two vehicle operators who work
         </q-item-label>
          </q-card-section>
        </q-card>
