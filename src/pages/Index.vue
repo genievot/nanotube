@@ -13,27 +13,26 @@
         padding
         arrows
         flat
-        width="55vw"
-        height="30vw"
+        style="width:650px; height: 400px; max-width: 100vw; max-height: 78vw"
         class="bg-white text-blue shadow-0 rounded-borders"
       >
       <q-carousel-slide name="topo" class="column no-wrap flex-center">
     <div class="q-mt-md text-center">
-      <q-video style="width:40vw; height: 22vw"
+      <q-video style="width:500px; height: 300px; max-width: 75vw; max-height: 60vw"
         src="https://www.youtube.com/embed/6K5gy3RLcKc"
       ></q-video>
     </div>
   </q-carousel-slide>
   <q-carousel-slide name="topt" class="column no-wrap flex-center">
 <div class="q-mt-md text-center">
-  <q-video style="width:40vw; height: 22vw"
+  <q-video style="width:500px; height: 300px; max-width: 75vw; max-height: 60vw"
     src="https://www.youtube.com/embed/6PvGiXaAJpo"
   ></q-video>
 </div>
 </q-carousel-slide>
 <q-carousel-slide name="topth" class="column no-wrap flex-center">
 <div class="q-mt-md text-center">
-<q-video style="width:40vw; height: 22vw"
+<q-video style="width:500px; height: 300px; max-width: 75vw; max-height: 60vw"
   src="https://www.youtube.com/embed/dWFyRxZxE9A"
 ></q-video>
 </div>
@@ -126,7 +125,9 @@ export default {
   name: 'PageIndex',
   data () {
     return {
-      slide: 'topo'
+      slide: 'topo',
+      channels: [],
+      topChannels: []
     }
   }
 }

@@ -11,7 +11,8 @@ const routes = [
     path: '/loggeduser',
     component: () => import('layouts/loggeduser.vue'),
     children: [
-      { path: '', component: () => import('pages/userdashboard.vue') }
+      { path: '', component: () => import('pages/Index.vue') },
+      { path: 'home', component: () => import('pages/userdashboard.vue') }
     ]
   }
 ]
